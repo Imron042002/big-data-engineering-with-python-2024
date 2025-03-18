@@ -23,6 +23,7 @@ Install PostgreSQL and create a database named technical_Data.
 
 Update the database connection settings in the script:
 ![alt text](<Screenshot 2025-03-18 194158.png>)
+![alt text](<Screenshot 2025-03-18 054755.png>)
 
 # Cassandra
 
@@ -31,6 +32,8 @@ Install Apache Cassandra and create a keyspace settrade_api.
 Connect to Cassandra in the script:
 ![alt text](<Screenshot 2025-03-18 193913.png>)
 ![alt text](<Screenshot 2025-03-18 193926.png>)
+![alt text](<Screenshot 2025-03-18 032808.png>)
+
 # Database Structure
 
 PostgreSQL: stock_financials
