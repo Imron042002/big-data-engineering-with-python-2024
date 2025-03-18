@@ -41,6 +41,7 @@ PostgreSQL: stock_financials
 ![alt text](<Screenshot 2025-03-18 055019.png>)
 ![alt text](<Screenshot 2025-03-18 055049.png>)
 
+
 # Cassandra: candlestick_data
 ![alt text](<Screenshot 2025-03-18 193926-1.png>)
 
@@ -52,3 +53,4 @@ Fetching Candlestick Data
 # Plotting Stock Data
 ![alt text](<Screenshot 2025-03-18 194041.png>)
 ![alt text](<Screenshot 2025-03-18 200212.png>)
+
