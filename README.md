@@ -17,8 +17,6 @@ Create a .csv file in the project directory.
 Add API credentials:
 ![alt text](<Screenshot 2025-03-18 194126.png>)
 
-# Database Setup
-
 # PostgreSQL
 
 Install PostgreSQL and create a database named technical_Data.
@@ -33,7 +31,6 @@ Install Apache Cassandra and create a keyspace settrade_api.
 Connect to Cassandra in the script:
 ![alt text](<Screenshot 2025-03-18 193913.png>)
 ![alt text](<Screenshot 2025-03-18 193926.png>)
-
 # Database Structure
 
 PostgreSQL: stock_financials
@@ -53,3 +50,20 @@ Fetching Candlestick Data
 # Plotting Stock Data
 ![alt text](<Screenshot 2025-03-18 194041.png>)
 ![alt text](<Screenshot 2025-03-18 200212.png>)
+
+# Important Notes
+
+Ensure all required libraries are installed.
+
+Configure API keys and database connections correctly.
+
+Be mindful of API rate limits to avoid service disruptions.
+
+Verify that database structures match the expected schema.
+
+If errors occur, check logs for troubleshooting guidance.
+
+# License
+
+This project is licensed under the MIT License.
+
