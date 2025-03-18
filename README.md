@@ -7,7 +7,7 @@ This project is designed to fetch financial data from the Settrade API and store
 # Installation
 
 Before using this project, install the required Python libraries:
-![alt text](<Screenshot 2025-03-18 193824.png>)
+!(<Screenshot 2025-03-18 193824.png>)
 
 # API Configuration
 
